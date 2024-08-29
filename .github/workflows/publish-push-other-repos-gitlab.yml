@@ -11,7 +11,7 @@ jobs:
     
     steps:
     - name: Checkout source repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         repository: draliayhan/draliayhan.github.io
         path: ./source
@@ -30,4 +30,4 @@ jobs:
     - name: Push to destination repository
       run: |
         cd destination
-        git push https://x-access-token:${{ secrets.DESTINATION_REPO_PAT }}@github.com/draliayhan/gitlab_page.git main --force
+        git push https://x-access-token:${{ secrets.API_TOKEN_GITHUB }}@github.com/draliayhan/gitlab_page.git main --force
