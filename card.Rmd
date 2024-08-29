@@ -7,8 +7,11 @@ output:
   postcards::trestles
 ---
 
-**Prof. Dr. Ali Ayhan**\
-*Türk Hekim, Jinekolog Onkolog*
+**Prof. Dr. Ali Ayhan**  
+*Türk Hekim*  
+*Kadın Hastalikları ve Doğum Uzmanı*  
+*Jinekolojik Onkoloji Cerrahisi Uzmanı*  
 
-**e-mail:** info\@draliayhan.org 
+
+*e-mail:* info\@draliayhan.org 
 
