@@ -1,0 +1,14 @@
+---
+title: "Prof. Dr. Ali Ayhan"
+image: "media/ProfDrAliAyhan.png"
+links:
+- Email: "mailto:info@draliayhan.org"
+output:
+  postcards::trestles
+---
+
+**Prof. Dr. Ali Ayhan**\
+*Türk Hekim, Jinekolog Onkolog*
+
+**e-mail:** info\@draliayhan.org 
+
