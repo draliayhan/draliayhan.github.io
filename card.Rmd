@@ -29,18 +29,17 @@ output:
 
 <hr>
 
-<a href="https://app.litmaps.com/shared/ee0bd4ba-0d19-4553-9263-f27457fb2b54" target="_blank">
-    <img src="./media/Ali-Ayhan-LitMaps.png" alt="Ali Ayhan LitMaps" style="width: 100%; max-width: 100%;">
-</a>
+<!-- <a href="https://app.litmaps.com/shared/ee0bd4ba-0d19-4553-9263-f27457fb2b54" target="_blank"> -->
+<!--     <img src="./media/Ali-Ayhan-LitMaps.png" alt="Ali Ayhan LitMaps" style="width: 100%; max-width: 100%;"> -->
+<!-- </a> -->
 
 
-<hr>
 
 
-<iframe src="https://lens.org/lens/embed/attribution" scrolling="no" height="30px" width="100%"></iframe>
-<a href="https://link.lens.org/HBusIUFGNyh" target="_blank">
-    <img src="./media/Ali-Ayhan-Most-Active-Authors-Lens.png" alt="Ali Ayhan Lens Most Active Authors" style="width: 100%; max-width: 100%;">
-</a>
+<!-- <iframe src="https://lens.org/lens/embed/attribution" scrolling="no" height="30px" width="100%"></iframe> -->
+<!-- <a href="https://link.lens.org/HBusIUFGNyh" target="_blank"> -->
+<!--     <img src="./media/Ali-Ayhan-Most-Active-Authors-Lens.png" alt="Ali Ayhan Lens Most Active Authors" style="width: 100%; max-width: 100%;"> -->
+<!-- </a> -->
 
 
 
