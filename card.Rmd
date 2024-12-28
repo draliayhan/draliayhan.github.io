@@ -29,11 +29,22 @@ output:
 
 <hr>
 
+[In memoram: Ali Ayhan (1940-2024)](https://www.international-journal-of-gynecological-cancer.com/action/showPdf?pii=S1048-891X%2824%2900028-8)
+
+<embed src="./pdfs/in-memoram-ali-ayhan.pdf" width="100%" height="800px">
+
+
+
+
+<hr>
 
 <video width="640" height="360" controls>
   <source src="./media/TJOD-2024.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+
+<hr>
 
 
 <!-- <a href="https://app.litmaps.com/shared/ee0bd4ba-0d19-4553-9263-f27457fb2b54" target="_blank"> -->
