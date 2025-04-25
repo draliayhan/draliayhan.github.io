@@ -7,6 +7,7 @@ output:
   postcards::trestles
 ---
 
+
 **Prof. Dr. Ali Ayhan**  
 *Türk Hekim*  
 *Kadın Hastalikları ve Doğum Uzmanı*  
@@ -15,30 +16,74 @@ output:
 
 *e-mail:* info\@draliayhan.org 
 
+<br>
 <hr>
+<br>
 
 
 [International Gynecologic Cancer Society (IGCS): Ali Ayhan'ı anıyoruz](https://igcs.org/remembering-ali-ayhan/)
 
 
+<br>
 <hr>
+<br>
 
 
 [Türk Eğitim Vakfı Prof. Dr. Ali Ayhan Burs Fonu](https://bagis.tev.org.tr/burs-fonu-bagisi?q=38683&k=86585)
 
 
+<br>
 <hr>
+<br>
+
+
+
+[**Textbook of Gynaecological Oncology**](https://www.esgo.org/textbook-platinum-edition/)
+
+<br>
+
+<a href="https://www.esgo.org/textbook-platinum-edition/"><img src="https://www.esgo.org/media/2024/07/6-textbook-wg.png" width="70%"></a>
+
+<br>
+
+<a href="https://www.esgo.org/textbook-platinum-edition/"><img src="./media/textbook-of-gynaecological-oncology.png" width="70%"></a>
+
+
+<br>
+<hr>
+<br>
+
 
 [In memoriam: Ali Ayhan (1940-2024)](https://www.international-journal-of-gynecological-cancer.com/article/S1048-891X(24)00028-8/fulltext)
+<br>
+
 
 <!-- <iframe src="https://www.international-journal-of-gynecological-cancer.com/article/S1048-891X(24)00028-8/fulltext" width="100%" height="800px"></iframe> -->
 
-<embed src="./pdfs/in-memoriam-ali-ayhan.pdf" width="100%" height="800px">
 
 
+<embed src="./pdfs/in-memoriam-ali-ayhan.pdf" width="70%" height="800px">
 
 
+<br>
 <hr>
+<br>
+
+
+[Frontline fighters: the continued fight against COVID-19](https://www.international-journal-of-gynecological-cancer.com/action/showPdf?pii=S1048-891X%2824%2900180-4)
+<br>
+
+<embed src="./pdfs/continued-fight-against-COVID-19.pdf" width="70%" height="800px">
+
+
+
+
+
+<br>
+<hr>
+<br>
+
+
 
 <video width="640" height="360" controls>
   <source src="./media/TJOD-2024.mp4" type="video/mp4">
@@ -46,7 +91,18 @@ output:
 </video>
 
 
+
+<br>
 <hr>
+<br>
+
+
+
+
+
+
+
+
 
 
 <!-- <a href="https://app.litmaps.com/shared/ee0bd4ba-0d19-4553-9263-f27457fb2b54" target="_blank"> -->
